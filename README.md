@@ -26,3 +26,8 @@ samples, guidance on mobile development, and a full API reference.
 <p align="center">
 <img src="https://github.com/Yash-978/quick_starter/assets/147479013/763f7413-49f0-4637-ba76-5c8145f3079a" width=22% height=35%>
 </p>
+
+<p align="center">
+<img src="https://github.com/Yash-978/quick_starter/assets/147479013/4b076257-d117-4e90-96e5-b23ce3c21670" width=22% height=35%>
+</p>
+
