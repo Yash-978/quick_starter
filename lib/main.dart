@@ -493,7 +493,7 @@ void main() {
                   ),
                 ),
                 TextSpan(
-                  text: '\t\t\t\t\tGAM',
+                  text: '\t\t\tGAM',
                   style: TextStyle(
                     color: Colors.orange,
                     fontSize: 29,
