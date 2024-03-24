@@ -308,7 +308,7 @@ void main() {
             TextSpan(
               children: [
                 TextSpan(
-                  text: '\t\t\t\t\t\t\t\t\tG',
+                  text: '  \t\t\t\t\t\t\t\t\t\t\tG',
                   style: TextStyle(
                     color: Colors.green,
                     fontSize: 29,
@@ -333,7 +333,7 @@ void main() {
                   ),
                 ),
                 TextSpan(
-                  text: 'FLUTT',
+                  text: ' \t\t\tFLUTT',
                   style: TextStyle(
                     color: Colors.blue,
                     fontSize: 29,
@@ -357,7 +357,7 @@ void main() {
                   ),
                 ),
                 TextSpan(
-                  text: '\t\t\t\t\t\tAN',
+                  text: ' \t\t\t\t\t\t\t\t\tAN',
                   style: TextStyle(
                     color: Colors.green,
                     fontSize: 29,
@@ -381,7 +381,7 @@ void main() {
                   ),
                 ),
                 TextSpan(
-                  text: 'DESIGN',
+                  text: '\tDESIGN',
                   style: TextStyle(
                     color: Colors.orange,
                     fontSize: 29,
@@ -405,7 +405,7 @@ void main() {
                   ),
                 ),
                 TextSpan(
-                  text: '\t\t\t\t\t\t\t  W',
+                  text: '\t\t\t\t\t\t\t\t\t\t\t\tW',
                   style: TextStyle(
                     color: Colors.red,
                     fontSize: 35,
@@ -421,7 +421,7 @@ void main() {
                   ),
                 ),
                 TextSpan(
-                  text: '\t\t\t FAS',
+                  text: '\t\t\t\t\t\t\t\tFAS',
                   style: TextStyle(
                     color: Colors.yellow,
                     fontSize: 29,
@@ -445,7 +445,7 @@ void main() {
                   ),
                 ),
                 TextSpan(
-                  text: 'ANIMAT',
+                  text: '\tANIMAT',
                   style: TextStyle(
                     color: Colors.green,
                     fontSize: 29,
@@ -469,7 +469,7 @@ void main() {
                   ),
                 ),
                 TextSpan(
-                  text: '\t\t\t\t\t\t\t\t\t\t\tI',
+                  text: '\t\t\t\t\t\t\t\t\t\t\t\t\t\tI',
                   style: TextStyle(
                     color: Colors.blue,
                     fontSize: 29,
@@ -493,7 +493,7 @@ void main() {
                   ),
                 ),
                 TextSpan(
-                  text: '\t\t\tGAM',
+                  text: '\t\t\t\t\t\tGAM',
                   style: TextStyle(
                     color: Colors.orange,
                     fontSize: 29,
